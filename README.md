@@ -40,7 +40,7 @@ Dynamic content search and pagination
 🛠️ Technical Architecture
 Backend: Symfony 6 (REST API & web interface)
 
-Web Frontend: Twig + Bootstrap
+Web Frontend: Twig 
 
 Desktop App: Technology of choice (e.g., JavaFX, Electron, .NET)
 
